@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>CircleMultiDrawSchemeFrag.spv</file>
+        <file>CircleMultiDrawSchemeVert.spv</file>
+        <file>RectangleMultiDrawSchemeFrag.spv</file>
+        <file>RectangleMultiDrawSchemeVert.spv</file>
+        <file>RectangleInstancingSchemeVert.spv</file>
+        <file>RectangleInstancingSchemeFrag.spv</file>
+        <file>RectangleInstancingSchemeOutlineFrag.spv</file>
+        <file>RectangleInstancingSchemeOutlineVert.spv</file>
+    </qresource>
+</RCC>
